@@ -1,2 +1,7 @@
 
 h1 {outline-color: blue;background-color: brown;}
+
+table{
+    border-radius: 0cqmax;
+    max-width: max-content;
+}
